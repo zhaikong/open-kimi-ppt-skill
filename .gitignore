@@ -13,3 +13,5 @@ __pycache__/
 
 # Local skill install metadata
 _user_meta.json
+config.bat
+node_modules
